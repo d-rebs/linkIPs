@@ -1,7 +1,6 @@
 // ==UserScript==
 // @name          linkIps
 // @description   Turn text IPs in clickable links
-// @include       https://10.12.10.198/*
 // @include       http*://10.1.12.254/*
 // @include       http*://fp.bethlehem.church/*
 // ==/UserScript==
